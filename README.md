@@ -29,4 +29,4 @@ $ git clone https://github.com/SABBIR404-CYBER/UID-PRO-MAGIC
 
 $ cd UID-PRO-MAGIC
 
-$ python Random-Pro.py
+$ python Random.Pro.py
