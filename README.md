@@ -1,9 +1,6 @@
 # UID-PRO-MAGIC
 Assalamulaikum This Tools Random Uid Cloning Tools
-
-
-# RANDOM-UID
-Assalamulaikum, This Tools Random Uid Cloning Tools,  Cp Id 50% Just Now Login,  Ok Id All Just Now Login 
+Cp Id 50% Just Now Login,  Ok Id All Just Now Login 
 
 
 # Install on Termux
