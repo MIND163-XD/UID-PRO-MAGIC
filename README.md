@@ -5,7 +5,7 @@ Cp Id 50% Just Now Login,  Ok Id All Just Now Login
 
 # Install on Termux
 
-
+,,,,,
 $ pkg update
 
 $ pkg upgrade
@@ -22,7 +22,7 @@ $ pip2 install bs4
 
 $ rm -rf RANDOM-UID
 
-$ git clone https://github.com/SABBIR404-CYBER/UID-PRO-MAGIC
+$ git clone https://github.com/MIND163-XD/UID-PRO-MAGIC
 
 
 # RUN SCRIPT
@@ -30,3 +30,4 @@ $ git clone https://github.com/SABBIR404-CYBER/UID-PRO-MAGIC
 $ cd UID-PRO-MAGIC
 
 $ python Random.Pro.py
+,,,,
