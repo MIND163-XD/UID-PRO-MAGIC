@@ -5,7 +5,7 @@ Cp Id 50% Just Now Login,  Ok Id All Just Now Login
 
 # Install on Termux
 
-,,,,,
+
 $ pkg update
 
 $ pkg upgrade
@@ -30,4 +30,3 @@ $ git clone https://github.com/MIND163-XD/UID-PRO-MAGIC
 $ cd UID-PRO-MAGIC
 
 $ python Random.Pro.py
-,,,,
